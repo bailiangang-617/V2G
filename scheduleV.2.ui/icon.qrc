@@ -1,0 +1,22 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>time.png</file>
+    <file>吉大校徽.png</file>
+    <file>play.png</file>
+    <file>battery.png</file>
+    <file>car.png</file>
+    <file>battery.png</file>
+    <file>charge.png</file>
+    <file>discharge.png</file>
+    <file>left.png</file>
+    <file>nodes.png</file>
+    <file>right.png</file>
+    <file>car.png</file>
+  </qresource>
+  <qresource prefix="pic">
+    <file>blanktwo.png</file>
+    <file>blankone.png</file>
+    <file>blank.png</file>
+    <file>priceii.png</file>
+  </qresource>
+</RCC>
